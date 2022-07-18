@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Felipe Silva"
 title_separator          : "-"
 name                     : &name "Felipe Silva"
-description              : &description "personal description"
+description              : &description "Assistant Professor, Trulaske College of Business, University of Missouri"
 url                      : https://pradeepm91.github.io/cv # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pradeepm91.github.io/cv"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Felipe Silva"
-  avatar           : "profile.png"
+  avatar           : "profile_latest.jpeg"
   bio              : "Assistant Professor"
   employer         : "425 Cornell Hall"
-  location         : "Trulaske College of Business, \n University of Missouri"
+  location         : "University of Missouri"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UKE7pfUAAAAJ"
   email            : 

@@ -61,6 +61,11 @@
     {% elsif post.paperurl %}
       <li>Download <a href=" {{ post.paperurl }} "><u>here</u></a></li>
     {% endif %}
+
+    {% if post.doi %}
+    <li>DOI: <a href=" {{ post.doi }} "><u>{{post.doi}}</u></a></li>
+    {% endif %}
+
 </ul>
   <!-- </article> -->
 

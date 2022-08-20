@@ -55,7 +55,7 @@
     {% elsif post.citation %}
       <li>Recommended citation: {{ post.citation }} </li>
     {% elsif post.paperurl %}
-      <li>Download <a href=" {{ post.paperurl }} ">here</a></li>
+      <li>Download <a href=" {{ post.paperurl }} "  target="_blank" rel="noopener">here</a></li>
     {% endif %}
 
     {% if post.doi %}

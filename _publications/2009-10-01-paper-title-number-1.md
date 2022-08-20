@@ -5,6 +5,7 @@ permalink:
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal of Risk'
+ed_details: 'vol no., issue no.'
 paperurl: 
 citation: 
 doi: 'https://doi.org/10.21314/jor.2015.321'

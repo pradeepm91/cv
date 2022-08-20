@@ -2,6 +2,7 @@
 title: "Risk Measures and the Impact of Asset Price Bubbles"
 collection: publications
 permalink: 
+excerpt: 
 date: 2009-10-01
 venue: 'Journal of Risk'
 ed_details: 'vol no., issue no.'
